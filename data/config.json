@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "documentName": "<Hamilton Letters>",
+  "iiifManifest": "/ec-trial-2026/<hamilton>/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "Transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/ec-trial-2026"
 }
